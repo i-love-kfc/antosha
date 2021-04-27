@@ -1,0 +1,1025 @@
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a5ba5 && [1/2] Building C object CMakeFiles\cmTC_a5ba5.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_a5ba5.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a5ba5.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_a5ba5.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: dirent.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2d94e && [1/2] Building C object CMakeFiles\cmTC_2d94e.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_2d94e.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2d94e.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_2d94e.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: dirent.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_dabcd && [1/2] Building C object CMakeFiles\cmTC_dabcd.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_dabcd.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_dabcd.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_dabcd.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: strings.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1dc41 && [1/2] Building C object CMakeFiles\cmTC_1dc41.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_1dc41.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1dc41.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_1dc41.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file utime.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_82ca9 && [1/2] Building C object CMakeFiles\cmTC_82ca9.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_82ca9.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_82ca9.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_82ca9.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: utime.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/mman.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_027d8 && [1/2] Building C object CMakeFiles\cmTC_027d8.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_027d8.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_027d8.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_027d8.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/mman.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/resource.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1eb56 && [1/2] Building C object CMakeFiles\cmTC_1eb56.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_1eb56.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1eb56.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_1eb56.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/resource.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ea14a && [1/2] Building C object CMakeFiles\cmTC_ea14a.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_ea14a.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_ea14a.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_ea14a.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/time.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/wait.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a4c98 && [1/2] Building C object CMakeFiles\cmTC_a4c98.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_a4c98.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a4c98.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_a4c98.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/wait.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining size of fpos_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2e02d && [1/2] Building C object CMakeFiles\cmTC_2e02d.dir\mfx_SIZEOF_FPOS_T.c.obj
+FAILED: CMakeFiles/cmTC_2e02d.dir/mfx_SIZEOF_FPOS_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2e02d.dir\mfx_SIZEOF_FPOS_T.c.obj /FdCMakeFiles\cmTC_2e02d.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(29): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(30): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(31): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(32): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(33): error C2065: fpos_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_FPOS_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(fpos_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of mode_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9f2a6 && [1/2] Building C object CMakeFiles\cmTC_9f2a6.dir\mfx_SIZEOF_MODE_T.c.obj
+FAILED: CMakeFiles/cmTC_9f2a6.dir/mfx_SIZEOF_MODE_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_9f2a6.dir\mfx_SIZEOF_MODE_T.c.obj /FdCMakeFiles\cmTC_9f2a6.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(29): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(30): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(31): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(32): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(33): error C2065: mode_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_MODE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(mode_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of ssize_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bc27b && [1/2] Building C object CMakeFiles\cmTC_bc27b.dir\mfx_SIZEOF_SSIZE_T.c.obj
+FAILED: CMakeFiles/cmTC_bc27b.dir/mfx_SIZEOF_SSIZE_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_bc27b.dir\mfx_SIZEOF_SSIZE_T.c.obj /FdCMakeFiles\cmTC_bc27b.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(29): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(30): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(31): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(32): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(33): error C2065: ssize_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_SSIZE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(ssize_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function alloca exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_502a3 && [1/2] Building C object CMakeFiles\cmTC_502a3.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_502a3.exe
+FAILED: cmTC_502a3.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_502a3.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_502a3.dir\CheckFunctionExists.c.obj  /out:cmTC_502a3.exe /implib:cmTC_502a3.lib /pdb:cmTC_502a3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_502a3.dir\CheckFunctionExists.c.obj /out:cmTC_502a3.exe /implib:cmTC_502a3.lib /pdb:cmTC_502a3.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_502a3.dir/intermediate.manifest CMakeFiles\cmTC_502a3.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ alloca в функции main.
+cmTC_502a3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function chown exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4b9ce && [1/2] Building C object CMakeFiles\cmTC_4b9ce.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_4b9ce.exe
+FAILED: cmTC_4b9ce.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4b9ce.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4b9ce.dir\CheckFunctionExists.c.obj  /out:cmTC_4b9ce.exe /implib:cmTC_4b9ce.lib /pdb:cmTC_4b9ce.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4b9ce.dir\CheckFunctionExists.c.obj /out:cmTC_4b9ce.exe /implib:cmTC_4b9ce.lib /pdb:cmTC_4b9ce.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_4b9ce.dir/intermediate.manifest CMakeFiles\cmTC_4b9ce.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ chown в функции main.
+cmTC_4b9ce.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_getcpuclockid exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_28e87 && [1/2] Building C object CMakeFiles\cmTC_28e87.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_28e87.exe
+FAILED: cmTC_28e87.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_28e87.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_28e87.dir\CheckFunctionExists.c.obj  /out:cmTC_28e87.exe /implib:cmTC_28e87.lib /pdb:cmTC_28e87.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_28e87.dir\CheckFunctionExists.c.obj /out:cmTC_28e87.exe /implib:cmTC_28e87.lib /pdb:cmTC_28e87.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_28e87.dir/intermediate.manifest CMakeFiles\cmTC_28e87.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_getcpuclockid в функции main.
+cmTC_28e87.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_getres exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bf698 && [1/2] Building C object CMakeFiles\cmTC_bf698.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_bf698.exe
+FAILED: cmTC_bf698.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bf698.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bf698.dir\CheckFunctionExists.c.obj  /out:cmTC_bf698.exe /implib:cmTC_bf698.lib /pdb:cmTC_bf698.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bf698.dir\CheckFunctionExists.c.obj /out:cmTC_bf698.exe /implib:cmTC_bf698.lib /pdb:cmTC_bf698.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_bf698.dir/intermediate.manifest CMakeFiles\cmTC_bf698.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_getres в функции main.
+cmTC_bf698.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_gettime exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fe7cd && [1/2] Building C object CMakeFiles\cmTC_fe7cd.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_fe7cd.exe
+FAILED: cmTC_fe7cd.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fe7cd.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_fe7cd.dir\CheckFunctionExists.c.obj  /out:cmTC_fe7cd.exe /implib:cmTC_fe7cd.lib /pdb:cmTC_fe7cd.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_fe7cd.dir\CheckFunctionExists.c.obj /out:cmTC_fe7cd.exe /implib:cmTC_fe7cd.lib /pdb:cmTC_fe7cd.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_fe7cd.dir/intermediate.manifest CMakeFiles\cmTC_fe7cd.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_gettime в функции main.
+cmTC_fe7cd.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getpagesize exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a4fe3 && [1/2] Building C object CMakeFiles\cmTC_a4fe3.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_a4fe3.exe
+FAILED: cmTC_a4fe3.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a4fe3.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a4fe3.dir\CheckFunctionExists.c.obj  /out:cmTC_a4fe3.exe /implib:cmTC_a4fe3.lib /pdb:cmTC_a4fe3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a4fe3.dir\CheckFunctionExists.c.obj /out:cmTC_a4fe3.exe /implib:cmTC_a4fe3.lib /pdb:cmTC_a4fe3.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_a4fe3.dir/intermediate.manifest CMakeFiles\cmTC_a4fe3.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ getpagesize в функции main.
+cmTC_a4fe3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getrusage exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a74ec && [1/2] Building C object CMakeFiles\cmTC_a74ec.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_a74ec.exe
+FAILED: cmTC_a74ec.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a74ec.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a74ec.dir\CheckFunctionExists.c.obj  /out:cmTC_a74ec.exe /implib:cmTC_a74ec.lib /pdb:cmTC_a74ec.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a74ec.dir\CheckFunctionExists.c.obj /out:cmTC_a74ec.exe /implib:cmTC_a74ec.lib /pdb:cmTC_a74ec.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_a74ec.dir/intermediate.manifest CMakeFiles\cmTC_a74ec.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ getrusage в функции main.
+cmTC_a74ec.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9ae20 && [1/2] Building C object CMakeFiles\cmTC_9ae20.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_9ae20.exe
+FAILED: cmTC_9ae20.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9ae20.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_9ae20.dir\CheckFunctionExists.c.obj  /out:cmTC_9ae20.exe /implib:cmTC_9ae20.lib /pdb:cmTC_9ae20.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_9ae20.dir\CheckFunctionExists.c.obj /out:cmTC_9ae20.exe /implib:cmTC_9ae20.lib /pdb:cmTC_9ae20.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_9ae20.dir/intermediate.manifest CMakeFiles\cmTC_9ae20.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ gettimeofday в функции main.
+cmTC_9ae20.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function lstat exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fb65a && [1/2] Building C object CMakeFiles\cmTC_fb65a.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_fb65a.exe
+FAILED: cmTC_fb65a.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fb65a.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_fb65a.dir\CheckFunctionExists.c.obj  /out:cmTC_fb65a.exe /implib:cmTC_fb65a.lib /pdb:cmTC_fb65a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_fb65a.dir\CheckFunctionExists.c.obj /out:cmTC_fb65a.exe /implib:cmTC_fb65a.lib /pdb:cmTC_fb65a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_fb65a.dir/intermediate.manifest CMakeFiles\cmTC_fb65a.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ lstat в функции main.
+cmTC_fb65a.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function mmap exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_07422 && [1/2] Building C object CMakeFiles\cmTC_07422.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_07422.exe
+FAILED: cmTC_07422.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_07422.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_07422.dir\CheckFunctionExists.c.obj  /out:cmTC_07422.exe /implib:cmTC_07422.lib /pdb:cmTC_07422.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_07422.dir\CheckFunctionExists.c.obj /out:cmTC_07422.exe /implib:cmTC_07422.lib /pdb:cmTC_07422.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_07422.dir/intermediate.manifest CMakeFiles\cmTC_07422.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ mmap в функции main.
+cmTC_07422.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function mprotect exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3b94f && [1/2] Building C object CMakeFiles\cmTC_3b94f.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_3b94f.exe
+FAILED: cmTC_3b94f.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3b94f.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_3b94f.dir\CheckFunctionExists.c.obj  /out:cmTC_3b94f.exe /implib:cmTC_3b94f.lib /pdb:cmTC_3b94f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_3b94f.dir\CheckFunctionExists.c.obj /out:cmTC_3b94f.exe /implib:cmTC_3b94f.lib /pdb:cmTC_3b94f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_3b94f.dir/intermediate.manifest CMakeFiles\cmTC_3b94f.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ mprotect в функции main.
+cmTC_3b94f.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function munmap exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5aaad && [1/2] Building C object CMakeFiles\cmTC_5aaad.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_5aaad.exe
+FAILED: cmTC_5aaad.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5aaad.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5aaad.dir\CheckFunctionExists.c.obj  /out:cmTC_5aaad.exe /implib:cmTC_5aaad.lib /pdb:cmTC_5aaad.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5aaad.dir\CheckFunctionExists.c.obj /out:cmTC_5aaad.exe /implib:cmTC_5aaad.lib /pdb:cmTC_5aaad.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_5aaad.dir/intermediate.manifest CMakeFiles\cmTC_5aaad.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ munmap в функции main.
+cmTC_5aaad.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function snprintf exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4c2ae && [1/2] Building C object CMakeFiles\cmTC_4c2ae.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_4c2ae.exe
+FAILED: cmTC_4c2ae.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4c2ae.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4c2ae.dir\CheckFunctionExists.c.obj  /out:cmTC_4c2ae.exe /implib:cmTC_4c2ae.lib /pdb:cmTC_4c2ae.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4c2ae.dir\CheckFunctionExists.c.obj /out:cmTC_4c2ae.exe /implib:cmTC_4c2ae.lib /pdb:cmTC_4c2ae.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_4c2ae.dir/intermediate.manifest CMakeFiles\cmTC_4c2ae.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ snprintf в функции main.
+cmTC_4c2ae.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function strcasecmp exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9cc00 && [1/2] Building C object CMakeFiles\cmTC_9cc00.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_9cc00.exe
+FAILED: cmTC_9cc00.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9cc00.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_9cc00.dir\CheckFunctionExists.c.obj  /out:cmTC_9cc00.exe /implib:cmTC_9cc00.lib /pdb:cmTC_9cc00.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_9cc00.dir\CheckFunctionExists.c.obj /out:cmTC_9cc00.exe /implib:cmTC_9cc00.lib /pdb:cmTC_9cc00.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_9cc00.dir/intermediate.manifest CMakeFiles\cmTC_9cc00.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ strcasecmp в функции main.
+cmTC_9cc00.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function strncasecmp exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_60e83 && [1/2] Building C object CMakeFiles\cmTC_60e83.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_60e83.exe
+FAILED: cmTC_60e83.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_60e83.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_60e83.dir\CheckFunctionExists.c.obj  /out:cmTC_60e83.exe /implib:cmTC_60e83.lib /pdb:cmTC_60e83.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_60e83.dir\CheckFunctionExists.c.obj /out:cmTC_60e83.exe /implib:cmTC_60e83.lib /pdb:cmTC_60e83.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_60e83.dir/intermediate.manifest CMakeFiles\cmTC_60e83.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ strncasecmp в функции main.
+cmTC_60e83.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b2fdf && [1/2] Building C object CMakeFiles\cmTC_b2fdf.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_b2fdf.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_b2fdf.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_b2fdf.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: dirent.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a80eb && [1/2] Building C object CMakeFiles\cmTC_a80eb.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_a80eb.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a80eb.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_a80eb.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: strings.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2dd1a && [1/2] Building C object CMakeFiles\cmTC_2dd1a.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_2dd1a.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2dd1a.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_2dd1a.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file utime.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c6cc0 && [1/2] Building C object CMakeFiles\cmTC_c6cc0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_c6cc0.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_c6cc0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_c6cc0.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: utime.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/mman.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e037d && [1/2] Building C object CMakeFiles\cmTC_e037d.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_e037d.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_e037d.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_e037d.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/mman.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/resource.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_09f83 && [1/2] Building C object CMakeFiles\cmTC_09f83.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_09f83.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_09f83.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_09f83.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/resource.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_60d8f && [1/2] Building C object CMakeFiles\cmTC_60d8f.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_60d8f.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_60d8f.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_60d8f.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/time.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/wait.h exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_13282 && [1/2] Building C object CMakeFiles\cmTC_13282.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_13282.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_13282.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_13282.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/wait.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining size of fpos_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_30b97 && [1/2] Building C object CMakeFiles\cmTC_30b97.dir\mfx_SIZEOF_FPOS_T.c.obj
+FAILED: CMakeFiles/cmTC_30b97.dir/mfx_SIZEOF_FPOS_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_30b97.dir\mfx_SIZEOF_FPOS_T.c.obj /FdCMakeFiles\cmTC_30b97.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(29): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(30): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(31): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(32): error C2065: fpos_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_FPOS_T.c(33): error C2065: fpos_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_FPOS_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(fpos_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of mode_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b062f && [1/2] Building C object CMakeFiles\cmTC_b062f.dir\mfx_SIZEOF_MODE_T.c.obj
+FAILED: CMakeFiles/cmTC_b062f.dir/mfx_SIZEOF_MODE_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_b062f.dir\mfx_SIZEOF_MODE_T.c.obj /FdCMakeFiles\cmTC_b062f.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(29): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(30): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(31): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(32): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_MODE_T.c(33): error C2065: mode_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_MODE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(mode_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of ssize_t failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2b9fc && [1/2] Building C object CMakeFiles\cmTC_2b9fc.dir\mfx_SIZEOF_SSIZE_T.c.obj
+FAILED: CMakeFiles/cmTC_2b9fc.dir/mfx_SIZEOF_SSIZE_T.c.obj 
+C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2b9fc.dir\mfx_SIZEOF_SSIZE_T.c.obj /FdCMakeFiles\cmTC_2b9fc.dir\ /FS -c C:\Users\������\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(29): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(30): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(31): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(32): error C2065: ssize_t: необъявленный идентификатор
+C:\Users\Степан\source\repos\mod\out\build\x64-Debug\CMakeFiles\CheckTypeSize\mfx_SIZEOF_SSIZE_T.c(33): error C2065: ssize_t: необъявленный идентификатор
+ninja: build stopped: subcommand failed.
+
+
+C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CheckTypeSize/mfx_SIZEOF_SSIZE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(ssize_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function alloca exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b814f && [1/2] Building C object CMakeFiles\cmTC_b814f.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_b814f.exe
+FAILED: cmTC_b814f.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b814f.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b814f.dir\CheckFunctionExists.c.obj  /out:cmTC_b814f.exe /implib:cmTC_b814f.lib /pdb:cmTC_b814f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b814f.dir\CheckFunctionExists.c.obj /out:cmTC_b814f.exe /implib:cmTC_b814f.lib /pdb:cmTC_b814f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b814f.dir/intermediate.manifest CMakeFiles\cmTC_b814f.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ alloca в функции main.
+cmTC_b814f.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function chown exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d3a1c && [1/2] Building C object CMakeFiles\cmTC_d3a1c.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_d3a1c.exe
+FAILED: cmTC_d3a1c.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d3a1c.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_d3a1c.dir\CheckFunctionExists.c.obj  /out:cmTC_d3a1c.exe /implib:cmTC_d3a1c.lib /pdb:cmTC_d3a1c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_d3a1c.dir\CheckFunctionExists.c.obj /out:cmTC_d3a1c.exe /implib:cmTC_d3a1c.lib /pdb:cmTC_d3a1c.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_d3a1c.dir/intermediate.manifest CMakeFiles\cmTC_d3a1c.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ chown в функции main.
+cmTC_d3a1c.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_getcpuclockid exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_709be && [1/2] Building C object CMakeFiles\cmTC_709be.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_709be.exe
+FAILED: cmTC_709be.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_709be.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_709be.dir\CheckFunctionExists.c.obj  /out:cmTC_709be.exe /implib:cmTC_709be.lib /pdb:cmTC_709be.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_709be.dir\CheckFunctionExists.c.obj /out:cmTC_709be.exe /implib:cmTC_709be.lib /pdb:cmTC_709be.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_709be.dir/intermediate.manifest CMakeFiles\cmTC_709be.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_getcpuclockid в функции main.
+cmTC_709be.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_getres exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1090c && [1/2] Building C object CMakeFiles\cmTC_1090c.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1090c.exe
+FAILED: cmTC_1090c.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1090c.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1090c.dir\CheckFunctionExists.c.obj  /out:cmTC_1090c.exe /implib:cmTC_1090c.lib /pdb:cmTC_1090c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1090c.dir\CheckFunctionExists.c.obj /out:cmTC_1090c.exe /implib:cmTC_1090c.lib /pdb:cmTC_1090c.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1090c.dir/intermediate.manifest CMakeFiles\cmTC_1090c.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_getres в функции main.
+cmTC_1090c.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clock_gettime exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_48bdd && [1/2] Building C object CMakeFiles\cmTC_48bdd.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_48bdd.exe
+FAILED: cmTC_48bdd.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_48bdd.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_48bdd.dir\CheckFunctionExists.c.obj  /out:cmTC_48bdd.exe /implib:cmTC_48bdd.lib /pdb:cmTC_48bdd.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_48bdd.dir\CheckFunctionExists.c.obj /out:cmTC_48bdd.exe /implib:cmTC_48bdd.lib /pdb:cmTC_48bdd.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_48bdd.dir/intermediate.manifest CMakeFiles\cmTC_48bdd.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clock_gettime в функции main.
+cmTC_48bdd.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getpagesize exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2800e && [1/2] Building C object CMakeFiles\cmTC_2800e.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2800e.exe
+FAILED: cmTC_2800e.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2800e.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2800e.dir\CheckFunctionExists.c.obj  /out:cmTC_2800e.exe /implib:cmTC_2800e.lib /pdb:cmTC_2800e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2800e.dir\CheckFunctionExists.c.obj /out:cmTC_2800e.exe /implib:cmTC_2800e.lib /pdb:cmTC_2800e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_2800e.dir/intermediate.manifest CMakeFiles\cmTC_2800e.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ getpagesize в функции main.
+cmTC_2800e.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getrusage exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2eefa && [1/2] Building C object CMakeFiles\cmTC_2eefa.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2eefa.exe
+FAILED: cmTC_2eefa.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2eefa.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2eefa.dir\CheckFunctionExists.c.obj  /out:cmTC_2eefa.exe /implib:cmTC_2eefa.lib /pdb:cmTC_2eefa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2eefa.dir\CheckFunctionExists.c.obj /out:cmTC_2eefa.exe /implib:cmTC_2eefa.lib /pdb:cmTC_2eefa.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_2eefa.dir/intermediate.manifest CMakeFiles\cmTC_2eefa.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ getrusage в функции main.
+cmTC_2eefa.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bcb71 && [1/2] Building C object CMakeFiles\cmTC_bcb71.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_bcb71.exe
+FAILED: cmTC_bcb71.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bcb71.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bcb71.dir\CheckFunctionExists.c.obj  /out:cmTC_bcb71.exe /implib:cmTC_bcb71.lib /pdb:cmTC_bcb71.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bcb71.dir\CheckFunctionExists.c.obj /out:cmTC_bcb71.exe /implib:cmTC_bcb71.lib /pdb:cmTC_bcb71.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_bcb71.dir/intermediate.manifest CMakeFiles\cmTC_bcb71.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ gettimeofday в функции main.
+cmTC_bcb71.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function lstat exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_59e67 && [1/2] Building C object CMakeFiles\cmTC_59e67.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_59e67.exe
+FAILED: cmTC_59e67.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_59e67.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_59e67.dir\CheckFunctionExists.c.obj  /out:cmTC_59e67.exe /implib:cmTC_59e67.lib /pdb:cmTC_59e67.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_59e67.dir\CheckFunctionExists.c.obj /out:cmTC_59e67.exe /implib:cmTC_59e67.lib /pdb:cmTC_59e67.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_59e67.dir/intermediate.manifest CMakeFiles\cmTC_59e67.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ lstat в функции main.
+cmTC_59e67.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function mmap exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2b0c5 && [1/2] Building C object CMakeFiles\cmTC_2b0c5.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2b0c5.exe
+FAILED: cmTC_2b0c5.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2b0c5.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2b0c5.dir\CheckFunctionExists.c.obj  /out:cmTC_2b0c5.exe /implib:cmTC_2b0c5.lib /pdb:cmTC_2b0c5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2b0c5.dir\CheckFunctionExists.c.obj /out:cmTC_2b0c5.exe /implib:cmTC_2b0c5.lib /pdb:cmTC_2b0c5.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_2b0c5.dir/intermediate.manifest CMakeFiles\cmTC_2b0c5.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ mmap в функции main.
+cmTC_2b0c5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function mprotect exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f5cb2 && [1/2] Building C object CMakeFiles\cmTC_f5cb2.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_f5cb2.exe
+FAILED: cmTC_f5cb2.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f5cb2.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f5cb2.dir\CheckFunctionExists.c.obj  /out:cmTC_f5cb2.exe /implib:cmTC_f5cb2.lib /pdb:cmTC_f5cb2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f5cb2.dir\CheckFunctionExists.c.obj /out:cmTC_f5cb2.exe /implib:cmTC_f5cb2.lib /pdb:cmTC_f5cb2.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_f5cb2.dir/intermediate.manifest CMakeFiles\cmTC_f5cb2.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ mprotect в функции main.
+cmTC_f5cb2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function munmap exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8ca27 && [1/2] Building C object CMakeFiles\cmTC_8ca27.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_8ca27.exe
+FAILED: cmTC_8ca27.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8ca27.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_8ca27.dir\CheckFunctionExists.c.obj  /out:cmTC_8ca27.exe /implib:cmTC_8ca27.lib /pdb:cmTC_8ca27.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_8ca27.dir\CheckFunctionExists.c.obj /out:cmTC_8ca27.exe /implib:cmTC_8ca27.lib /pdb:cmTC_8ca27.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_8ca27.dir/intermediate.manifest CMakeFiles\cmTC_8ca27.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ munmap в функции main.
+cmTC_8ca27.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function snprintf exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4cd7d && [1/2] Building C object CMakeFiles\cmTC_4cd7d.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_4cd7d.exe
+FAILED: cmTC_4cd7d.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4cd7d.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4cd7d.dir\CheckFunctionExists.c.obj  /out:cmTC_4cd7d.exe /implib:cmTC_4cd7d.lib /pdb:cmTC_4cd7d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_4cd7d.dir\CheckFunctionExists.c.obj /out:cmTC_4cd7d.exe /implib:cmTC_4cd7d.lib /pdb:cmTC_4cd7d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_4cd7d.dir/intermediate.manifest CMakeFiles\cmTC_4cd7d.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ snprintf в функции main.
+cmTC_4cd7d.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function strcasecmp exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6db9e && [1/2] Building C object CMakeFiles\cmTC_6db9e.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_6db9e.exe
+FAILED: cmTC_6db9e.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6db9e.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6db9e.dir\CheckFunctionExists.c.obj  /out:cmTC_6db9e.exe /implib:cmTC_6db9e.lib /pdb:cmTC_6db9e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6db9e.dir\CheckFunctionExists.c.obj /out:cmTC_6db9e.exe /implib:cmTC_6db9e.lib /pdb:cmTC_6db9e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_6db9e.dir/intermediate.manifest CMakeFiles\cmTC_6db9e.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ strcasecmp в функции main.
+cmTC_6db9e.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function strncasecmp exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_aa231 && [1/2] Building C object CMakeFiles\cmTC_aa231.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_aa231.exe
+FAILED: cmTC_aa231.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_aa231.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_aa231.dir\CheckFunctionExists.c.obj  /out:cmTC_aa231.exe /implib:cmTC_aa231.lib /pdb:cmTC_aa231.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_aa231.dir\CheckFunctionExists.c.obj /out:cmTC_aa231.exe /implib:cmTC_aa231.lib /pdb:cmTC_aa231.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_aa231.dir/intermediate.manifest CMakeFiles\cmTC_aa231.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ strncasecmp в функции main.
+cmTC_aa231.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function vsnprintf exists failed with the following output:
+Change Dir: C:/Users/Степан/source/repos/mod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2994a && [1/2] Building C object CMakeFiles\cmTC_2994a.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2994a.exe
+FAILED: cmTC_2994a.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2994a.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2994a.dir\CheckFunctionExists.c.obj  /out:cmTC_2994a.exe /implib:cmTC_2994a.lib /pdb:cmTC_2994a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2994a.dir\CheckFunctionExists.c.obj /out:cmTC_2994a.exe /implib:cmTC_2994a.lib /pdb:cmTC_2994a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_2994a.dir/intermediate.manifest CMakeFiles\cmTC_2994a.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ vsnprintf в функции main.
+MSVCRTD.lib(vsnprintf.obj) : error LNK2001: неразрешенный внешний символ vsnprintf.
+MSVCRTD.lib(vsnprintf.obj) : error LNK2001: неразрешенный внешний символ _vsnprintf.
+cmTC_2994a.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+ninja: build stopped: subcommand failed.
+
+
+

@@ -1,0 +1,17 @@
+*.[oa]
+*.so
+*.obj
+*.lib
+*.exp
+*.dll
+*.exe
+*.manifest
+*.dmp
+*.swp
+.tags
+/src
+/bin/x64/lua/jit
+/bin/x64/Lua_JIT.pdb
+/bin/x64/Lua_JIT.ilk
+/bin/x64/LuaJIT.pdb
+/bin/x64/LuaJIT.ilk
